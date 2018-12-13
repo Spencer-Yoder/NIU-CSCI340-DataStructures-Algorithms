@@ -1,10 +1,14 @@
-	CSCI 340						Computer Assignment 00	             Spring 2017                  
+	CSCI 340						Computer Assignment 00	             Spring 2017
+                  
 <h2>Introduction to Git/GitHub (5 points)</h2>
 
-For this computer assignment, you will ***not*** have to write any code.You will only have to check out the code from the Git repository and make a few changes to `assignment00.cc`:
-**Programming Notes:**
+For this computer assignment, you will ***not*** have to write any code.
 
-1) Create an account at [GitHub (https://github.com/join)](https://github.com/join), once created please enter information about GitHub account in the [class user database](https://forms.office.com/Pages/ResponsePage.aspx?id=kDOH6hyMMUKnmWtaAjWy5nN-1DF_VyVAmx8JZxllOldURDY0QzdIM1dITDVSRkpSVlFKSjNLWTkyQy4u).
+You will only have to check out the code from the Git repository and make a few changes to `assignment00.cc`:
+
+**Programming Notes:**
+
+1) Create an account at [GitHub (https://github.com/join)](https://github.com/join), once created please enter information about GitHub account in the class user database.
 
 *Helpful Git & GitHub Guides:*
 
@@ -62,4 +66,5 @@ This semester you will need to make at least ***three commits*** to your local r
 
 When your program is ready for grading, ***commit*** and ***push*** your local repository to remote git classroom repository and follow _**Assignment Submission Instructions**_. 
 
-
+
+
