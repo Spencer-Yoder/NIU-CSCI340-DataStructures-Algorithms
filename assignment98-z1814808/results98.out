@@ -1,0 +1,9 @@
+(){}() is well-formed.
+([(){}]) is well-formed.
+{{(] is NOT well-formed.
+()({[]}) is well-formed.
+((((([[[[{{{}}}]]]])))))() is well-formed.
+(){}[[[[]]]](){()}(]) is NOT well-formed.
+] is NOT well-formed.
+(){}[]{{{()}}} is well-formed.
+( is NOT well-formed.

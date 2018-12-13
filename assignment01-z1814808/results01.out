@@ -1,0 +1,26 @@
+------ Data source: 66 unique random numbers ------
+    66    87    64    71    30    23    42    13    11     2
+    58     1    79     7    46    27    99    89    59    67
+    45    32    36    49     6    56    28    10    48    84
+    38    16    96    47    37    52    22    81    44    54
+    63    85    93    88    95    94    50    57    62    92
+    34    91    31     5     4    76   100     8    21     9
+    14    35    98    78    72    26
+
+------ 50 random numbers to be searched: ------
+    16    75    66     8    31    54    21    79    43    53
+    57    64    59    90    38    16    10    41    47   100
+    46    81    32    26   100    95    65    64    50    10
+    41    65    84    58    24    67    11    96    97     5
+    48    54    20     6    95    10    21     4    50    20
+
+
+Linear search: 38 numbers are found. The average number of comparisons in each search: 42.36
+
+Binary search: 2 numbers are found. The average number of comparisons in each search: 6.96
+
+------- numbers in data source are now sorted ---------
+
+Linear search: 38 numbers are found. The average number of comparisons in each search: 40.3
+
+Binary search: 38 numbers are found. The average number of comparisons in each search: 5.76
